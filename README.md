@@ -1,1 +1,1 @@
-## Master's Thesis: "Bayesian Support Vector Machines"
+### Master's Thesis: Bayesian Support Vector Machines
